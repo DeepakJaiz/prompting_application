@@ -16,7 +16,8 @@ https://www.promptingguide.ai/applications
 - Install Jupyter Notebook to run the code
 
 ### Requirements
-`pip install openai`
+`pip install openai`<br/>
+`pip install langchain`
 
 ### How to run
 Open above file in Jupyter Notebook and select the cell from top one by one and click run to run the code.
